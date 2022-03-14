@@ -2,7 +2,7 @@
 
 Simple CRUD app to store books read.
 
-[Live Preview]()
+[Live Preview](https://edgeboy47.github.io/odin-library/)
 
 ### Skills Used
 - HTML
